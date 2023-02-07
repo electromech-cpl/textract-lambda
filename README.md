@@ -11,9 +11,8 @@ Lamda Service
 - Identity Access Management Service(IAM)
 
 Details architecture of implementation is given below: 
+![Screenshot from 2023-02-07 16-26-15](https://user-images.githubusercontent.com/72973799/217235708-bcacc6f9-6d99-43a6-b5e8-fbb60e94ea00.png)
 
-
-![Screenshot from 2023-02-07 16-26-15](https://user-images.githubusercontent.com/72973799/217234517-4a839818-0f87-4585-bb4a-7c921364af97.png)
 
 Steps to create above architecture are mentioned below: 
 - Step 1: Create the S3 Bucket
